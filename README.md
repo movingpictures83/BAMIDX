@@ -1,2 +1,2 @@
-# SAMIDX
-Compute index using SAM
+# BAMIDX
+Compute index using BAM
