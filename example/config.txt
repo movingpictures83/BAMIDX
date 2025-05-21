@@ -1,0 +1,2 @@
+Prefix plugins/BAMIDX/example/
+Plugin BAMIDX inputfile output.bam outputfile none
